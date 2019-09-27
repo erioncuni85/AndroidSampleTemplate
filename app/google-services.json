@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "486040797582",
+    "firebase_url": "https://androidsamplefirebase.firebaseio.com",
+    "project_id": "androidsamplefirebase",
+    "storage_bucket": "androidsamplefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486040797582:android:624862a4fe5695467d24df",
+        "android_client_info": {
+          "package_name": "almotech.co.androidtemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486040797582-m1p5gonjknh1as7k7f85nlee9st6e38d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "almotech.co.androidtemplate",
+            "certificate_hash": "4bbd684d3c06c80d10813f9f7d5ce96a92097782"
+          }
+        },
+        {
+          "client_id": "486040797582-1620h0hk9ss1tbitr1to4pa7nslm5h6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7C7l3pehCZnceD2as5QFdC9xwp8k9CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486040797582-1620h0hk9ss1tbitr1to4pa7nslm5h6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
